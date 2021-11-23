@@ -1,11 +1,20 @@
 ### Hi there 👋
 
+- 🌱 I’m a PhD student working on AGN and Dark Matter
+- 🔭 I’m currently working on astrophysical simulations
+- 🤔 I’m looking for help with [JuliaAstroSim](https://github.com/JuliaAstroSim)
+
+[![islent's GitHub stats](https://github-readme-stats.vercel.app/api?username=islent&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![islent's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islent&hide=javascript,html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![islent's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=islent)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **islent/islent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+ ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
